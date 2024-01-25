@@ -1,0 +1,27 @@
+[
+  {
+    "question": "hola",
+    "options": [
+      "si",
+      "no",
+      "talvez"
+    ]
+  },
+  {
+    "question": "hola2",
+    "options": [
+      "si",
+      "no",
+      "123"
+    ]
+  },
+  {
+    "question": "Pregunta 3",
+    "options": [
+      "si",
+      "no",
+      "tambien",
+      "ninguna"
+    ]
+  }
+]
